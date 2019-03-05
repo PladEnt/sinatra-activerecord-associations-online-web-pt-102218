@@ -101,8 +101,8 @@ DEPENDENCIES
   rspec
   sinatra
   sinatra-activerecord
-  sqlite3
+  sqlite3 (< 1.4)
   tux
 
 BUNDLED WITH
-   1.16.0
+   1.17.3
